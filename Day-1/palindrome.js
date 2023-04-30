@@ -13,7 +13,7 @@ var isPalindrome = function (x) {
             return false;
         }
         leftInd++;
-        rightInd--
+        rightInd--;
     }
     return true;
 }
